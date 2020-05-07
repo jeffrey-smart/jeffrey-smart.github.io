@@ -1,0 +1,133 @@
+---
+layout: post
+title:  "Resume"
+date:   2020-05-06 18:14:41 -0700
+categories: jekyll update
+---
+
+### **Jeffrey Smart, Ph.D.**
+
+<table style="border: 0px;">
+<tr>
+
+<td><a href = "mailto: Jeffrey.Smart@me.com">Jeffrey.Smart@me.com</a></td>
+<td style="text-align: center;"><a href="https://www.linkedin.com/in/jrsmart/">linkedin.com/in/jrsmart</a></td>
+<td style="text-align: right;">(818) 519-0966</td>
+
+</tr>
+</table>
+
+Goal: Seeking data analyst / data engineering role using Python and
+financial analytics skills.
+
+Skills: Python, SQL, R, financial mathematics and risk management, project management, Excel.
+
+**Bank of Hope** -- Los Angeles, CA <span style="float:right;">May 2019 to May 2020</span>
+
+First Vice President, Operational Risk Management and Loan Operations
+Departments
+
+-   Validated valuations for a large syndicated loan program
+    (Python and pandas).
+
+-   Identified data sources, designed and executed data preparation for
+    monthly operational dashboard (Python and pandas).
+
+-   Developed Loan Ops' future-state data strategy with IT's Enterprise Data
+    Warehouse team.
+
+-   Performed independent assessment of controls and risks for several
+    departments. Delivered oral and written presentations to executive
+    management.
+
+**HireGenics** -- 100 percent remote <span style="float:right;">January 2017 to March 2019</span>
+
+Independent Contractor -- AIG's Insurance Company Asset/Liability
+Modeling Department
+
+-   Automated validation of interest rate and equity
+    scenarios for capital modeling; cut delivery time from 4 weeks to 1
+    day (Python and numpy).
+
+-   Wrote proof-of-concept code and served as project manager for a market data automation project. 
+    Followed Agile methodology, using Jira and Confluence. 
+    Retired legacy application.
+
+-   Developed and executed test plans to support
+    capital-modeling analytics. Led walk-throughs to obtain deployment
+    approval (SQL and Python).
+
+**AIG** -- Woodland Hills, CA <span style="float:right;">August 2009 to March 2016</span>
+
+Director (2009 -- 14) and Managing Director (2014 -- 16), Market
+Risk Management Department
+
+-   Model Implementation: Implemented and tested
+    enhancements to models used for valuation and hedging of \$35
+    billion book of variable annuities.
+
+-   Operations: Scheduled and managed daily and monthly batch processes
+    along with large-scale R&D analytics.
+
+-   Controls: Designed and implemented process controls; conducted
+    reviews with SOX, Internal Audit and regulators.
+
+-   Cloud Computing: Created and led cloud-computing strategy; grew from
+    200 internal cores to 8,000 cores on external cloud. Supported
+    growth from \$8 billion to \$35 billion assets under management.
+
+-   Process Improvements: Executed multiple process improvement
+    projects; e.g., cut month-end batch cycle from 4 weeks to 4 days.
+
+-   Leadership: Hired and led team of 6 professionals.
+
+**AIG** -- New York, NY <span style="float:right;">March 1997 to August 2009</span>
+
+Various positions, Enterprise Risk Management Department
+
+-   Head of ERM Data Services: acquire and consolidate corporate data
+    for corporate risk officers; led team of 15 professionals.
+
+-   Performed quarterly value at risk analysis on \$500 billion balance
+    sheet for public disclosure.
+
+-   Led creation and implementation of platform to track \$50 billion
+    derivatives portfolio; trained operating company teams in US and
+    southeast Asia.
+
+-   Derivatives Committee Co-Chair: Committee was responsible for review
+    and approval of all derivative programs globally.
+
+**TMG Financial Projects** -- Greenwich, CT <span style="float:right;">February 1996 to March 1997</span>
+
+Financial Engineer
+
+-   Implemented economic capital model for book of long-dated
+    interest-rate and cross-currency derivatives. Included various
+    credit enhancements.
+
+**Presentations**
+
+HPC on Wall Street (panelist) <span style="float:right;">New York, NY -- September 2016</span>
+
+HPC on Wall Street (panelist) <span style="float:right;">New York, NY -- April 2016</span>
+
+Amazon (speaker at invitation-only briefing) <span style="float:right;">New York, NY -- April 2016</span>
+
+Cycle Computing (speaker at invitation-only briefing) <span style="float:right;">New York, NY -- April 2016</span>
+
+High-Performance Computing User Forum (invited speaker) <span style="float:right;">Tuscon, AZ -- April 2016</span>
+
+**Education**
+
+M.S., Mathematics, Claremont Graduate University <span style="float:right;">2017</span>
+
+Ph.D., Chemical Engineering, University of Notre Dame <span style="float:right;">1992</span>
+
+M.S., Chemical Engineering, University of Notre Dame <span style="float:right;">1988</span>
+
+B.S., Chemical Engineering, West Virginia University <span style="float:right;">1986</span>
+
+
+
+
