@@ -12,7 +12,7 @@ categories: jekyll update
 
 <td><a href = "mailto: Jeffrey.Smart@me.com">Jeffrey.Smart@me.com</a></td>
 <td style="text-align: center;"><a href="https://www.linkedin.com/in/jrsmart/">linkedin.com/in/jrsmart</a></td>
-<td style="text-align: right;">(818) 519-0966</td>
+<td style="text-align: right;"><a href="tel:8185190966">(818) 519-0966</a></td>
 
 </tr>
 </table>
